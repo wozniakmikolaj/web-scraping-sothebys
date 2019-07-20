@@ -1,4 +1,6 @@
-pandas
+selenium
+geckodriver
 beautifulsoup
+pandas
 matplotlib
 seaborn

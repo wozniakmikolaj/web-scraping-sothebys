@@ -1,5 +1,4 @@
 selenium
-geckodriver
 beautifulsoup
 pandas
 matplotlib
